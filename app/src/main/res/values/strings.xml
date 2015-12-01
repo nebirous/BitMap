@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BitMap</string>
+    <string name="Luz">Luz</string>
+    <string name="Rojo">Rojo</string>
+    <string name="Verde">Verde</string>
+    <string name="Azul">Azul</string>
+    <string name="RotarIz">Rotar Izquierda</string>
+    <string name="mas">+</string>
+    <string name="menos">-</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Guardar">Guardar</string>
+    <string name="Guardado">Guardado en almacenamiento externo</string>
+</resources>
